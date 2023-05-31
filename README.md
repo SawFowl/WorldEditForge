@@ -1,3 +1,5 @@
+If you are using SpongeForge version 1.16.5-36.2.5-8.1.0-RC1324 or newer, then recommend using the original WorldEdit mod (Sponge dependency data will need to be removed).
+
 <h1>
     <img src="worldedit-logo.svg" alt="WorldEdit" width="400" /> 
 </h1>
